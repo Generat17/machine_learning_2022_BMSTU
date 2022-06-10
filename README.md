@@ -14,4 +14,4 @@
 2. [Методы построения моделей машинного обучения.](https://github.com/Generat17/ml_course_2022/blob/main/RK_2/RK_2.ipynb)
 
 ## НИРС:
-1. [Прогнозирования подпишется ли клиент на срочный депозит.](https://github.com/Generat17/ml_course_2022/blob/main/NIRS/NIRS.ipynb)
+1. [Прогнозирования подпииски на срочный депозит.](https://github.com/Generat17/ml_course_2022/blob/main/NIRS/NIRS.ipynb)
