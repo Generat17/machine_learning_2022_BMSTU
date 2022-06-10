@@ -7,4 +7,4 @@
 - 3 [Подготовка обучающей и тестовой выборки, кросс-валидация и подбор гиперпараметров на примере метода ближайших соседей.](https://github.com/Generat17/ml_course_2022/blob/main/lab_3/lab_3.ipynb)
 - 4 [Линейные модели, SVM и деревья решений.](https://github.com/Generat17/ml_course_2022/blob/main/lab_4/lab_4.ipynb)
 - 5 [Ансамбли моделей машинного обучения.](https://github.com/Generat17/ml_course_2022/blob/main/lab_5/lab_5.ipynb)
-- 6 [Анализ и прогнозирование временного ряда.]()
+- 6 [Анализ и прогнозирование временного ряда.](https://github.com/Generat17/ml_course_2022/blob/main/lab_6/lab6.ipynb)
