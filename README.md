@@ -8,3 +8,7 @@
 - 4 [Линейные модели, SVM и деревья решений.](https://github.com/Generat17/ml_course_2022/blob/main/lab_4/lab_4.ipynb)
 - 5 [Ансамбли моделей машинного обучения.](https://github.com/Generat17/ml_course_2022/blob/main/lab_5/lab_5.ipynb)
 - 6 [Анализ и прогнозирование временного ряда.](https://github.com/Generat17/ml_course_2022/blob/main/lab_6/lab6.ipynb)
+
+## Рубежные контроли:
+- 1 [Технологии разведочного анализа и обработки данных.](https://github.com/Generat17/ml_course_2022/blob/main/RK_1/RK_1.ipynb)
+- 2 [Методы построения моделей машинного обучения.](https://github.com/Generat17/ml_course_2022/blob/main/RK_2/RK_2.ipynb)
